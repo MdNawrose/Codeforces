@@ -6,7 +6,9 @@ scanf("%lld",&n);
 for(i=1;i<=n;i++)
 {scanf("%lld%lld%lld",&a,&b,&c);
 if((a+b+c)>=2)
-{cnt++;}
+{
+  cnt++;
+}
 }
 printf("%lld\n",cnt);
 return 0;
