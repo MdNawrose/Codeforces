@@ -33,9 +33,6 @@ int main() {
        else{
            printf("PASS\n");
        }
-       
-       
    }
- 
     return 0;
 }
